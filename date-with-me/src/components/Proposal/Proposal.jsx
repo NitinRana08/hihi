@@ -26,7 +26,7 @@ export default function Proposal() {
 
       <h1 className="text-5xl font-bold mb-16 text-pink-600">
 
-        ❤️ Will You Go On A Date With Me? ❤️
+        ❤️ Will You Go On A Date With Me Bhumi? ❤️
 
       </h1>
 
