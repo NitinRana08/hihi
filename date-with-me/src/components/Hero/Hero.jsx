@@ -39,7 +39,7 @@ export default function Hero({ onYes }) {
                 transition={{ delay: 0.8 }}
                 className="text-5xl font-bold mt-3 text-red-500 z-10"
             >
-                A Date With Me?
+                A Date With Me Bhumi?
             </motion.h2>
 
             <motion.div
