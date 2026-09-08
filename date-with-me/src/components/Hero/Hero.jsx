@@ -35,6 +35,7 @@ export default function Hero({ onYes }) {
 
             <motion.h2
                 initial={{ opacity: 0 }}
+                
                 animate={{ opacity: 1 }}
                 transition={{ delay: 0.8 }}
                 className="text-5xl font-bold mt-3 text-red-500 z-10"
